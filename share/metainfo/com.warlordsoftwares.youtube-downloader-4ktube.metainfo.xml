@@ -146,14 +146,19 @@
 		</screenshot>
 	</screenshots>
 	<url type="homepage">https://warlordsoftwares.com/trending-apps/4ktube-pro-best-youtube-video-downloader-linux/</url>
-	<url type="vcs-browser">https://gitlab.com/warlordsoftwares/4ktube</url>
-	<url type="bugtracker">https://gitlab.com/warlordsoftwares/4ktube/-/issues</url>
+	<url type="vcs-browser">https://github.com/rishabh3354/4KTUBE-MEDIA-DOWNLOADER</url>
+	<url type="bugtracker">https://github.com/rishabh3354/4KTUBE-MEDIA-DOWNLOADER/issues</url>
 	<url type="contact">https://warlordsoftwares.com/contact-us/</url>
 	<url type="donation">https://www.paypal.me/rishabh3354/10</url>
 	<update_contact>contact@warlordsoftwares.com</update_contact>
 	<launchable type="desktop-id">com.warlordsoftwares.youtube-downloader-4ktube.desktop</launchable>
 	<content_rating type="oars-1.1" />
 	<releases>
+		<release version="2026.9.7" date="2026-9-7">
+			<description>
+				<p>UI fixes and improvements</p>
+			</description>
+		</release>
 		<release version="2026.8.24" date="2026-8-24">
 			<description>
 				<p>YouTube music playlist fixes</p>
